@@ -1,4 +1,4 @@
-# 🚀 DevOps API Project
+#  DevOps API Project
 
 ![CI](https://img.shields.io/github/actions/workflow/status/Filipcardos/devops-api-project/ci.yml?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/docker-ready-blue?style=for-the-badge&logo=docker)
@@ -6,7 +6,7 @@
 
 API REST em Flask com PostgreSQL, containerizada com Docker e testada/validada via GitHub Actions.
 
-🔗 Deploy: https://devops-api-project.onrender.com/
+ Deploy: https://devops-api-project.onrender.com/
 
 ## Sobre
 
