@@ -142,5 +142,5 @@ curl http://localhost:5000/db-status
 
 ## Autor
 
-Filipe Cardoso
-🔗 https://github.com/Filipcardos
+Filipe Oliveira Cardoso
+
